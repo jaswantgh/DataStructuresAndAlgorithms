@@ -1,4 +1,4 @@
-# Bushfire Monitoring System
+# Simple Bushfire Monitoring System
 
 This system implements various algorithms and abstract data types (ADTs) to monitor bushfires in specific areas using Unmanned Aerial Vehicles (UAVs). It is developed in Python 2.7.17 and is based on data obtained from the 'location.txt' and 'UAVdata.txt' text files.
 
